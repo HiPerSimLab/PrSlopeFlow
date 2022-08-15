@@ -4,4 +4,4 @@ This is a graduate-level fluid mechanics class project. The Matlab code posted h
 
 Linear stability analysis of katabatic Prandtl slope flows is explained in the following work: 
 
-Xiao, C., & Senocak, I. (2019). Stability of the Prandtl model for katabatic slope flows. Journal of Fluid Mechanics, 865, R2. [link to the article] (https://doi.org/10.1017/jfm.2019.132)
+Xiao, C., & Senocak, I. (2019). Stability of the Prandtl model for katabatic slope flows. Journal of Fluid Mechanics, 865, R2. [link to the article](https://doi.org/10.1017/jfm.2019.132)
